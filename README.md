@@ -1,6 +1,6 @@
 # my-test
 
-# 是个空的脚手架 第一册上传项目到gitHub 测试一下 哈哈哈哈
+# 是个空的脚手架 第一次上传项目到gitHub 测试一下 哈哈哈哈
 > wodelianxi
 
 ## Build Setup
