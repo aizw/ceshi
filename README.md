@@ -1,14 +1,14 @@
 # my-test
 
-# 是个空的脚手架 第一次上传项目到gitHub 测试一下 哈哈哈哈
 > wodelianxi
 
 ## Build Setup
 
 ``` bash
-# install dependencies
+# install dependencies 
 npm install
 
+# 第一次上传到github,测试一下 挺好用 哈哈哈哈 
 # serve with hot reload at localhost:8080
 npm run dev
 
