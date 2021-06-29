@@ -1,5 +1,6 @@
 # my-test
 
+# 是个空的脚手架 第一册上传项目到gitHub 测试一下 哈哈哈哈
 > wodelianxi
 
 ## Build Setup
@@ -25,3 +26,5 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+
